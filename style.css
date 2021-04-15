@@ -1,0 +1,7 @@
+body {
+    background-image: url("background.jpg");
+}
+canvas {
+    border: 10px dotted chartreuse;
+    box-shadow: 5px 5px 40px crimson;
+}
